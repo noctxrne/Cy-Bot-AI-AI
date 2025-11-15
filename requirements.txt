@@ -1,0 +1,28 @@
+# Core Flask
+Flask
+
+# LangChain Ecosystem
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+langchain-core
+
+# ML & Data
+joblib
+numpy
+scikit-learn
+
+# Vector Store & Embeddings
+faiss-cpu
+sentence-transformers
+
+# PDF Processing
+PyMuPDF
+
+# Environment Variables
+python-dotenv
+
+# WSGI Server (for production)
+gunicorn

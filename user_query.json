@@ -1,0 +1,1152 @@
+[
+ {
+  "query": "Someone hacked my Instagram account",
+  "category": "Hacking \/ Identity Theft",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "Someone hacked my Instagram account (cannot login)",
+  "category": "Hacking \/ Identity Theft",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "Someone hacked my Instagram account (someone changed my password)",
+  "category": "Hacking \/ Identity Theft",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "Someone hacked my Instagram account - how to report?",
+  "category": "Hacking \/ Identity Theft",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "My email was hacked and passwords changed",
+  "category": "Hacking \/ Account Compromise",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "My email was hacked and passwords changed (cannot login)",
+  "category": "Hacking \/ Account Compromise",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "My email was hacked and passwords changed (someone changed my password)",
+  "category": "Hacking \/ Account Compromise",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "My email was hacked and passwords changed - how to report?",
+  "category": "Hacking \/ Account Compromise",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "I received a phishing email asking for bank details",
+  "category": "Phishing \/ Online Fraud",
+  "law_section": "IT Act Section 66D"
+ },
+ {
+  "query": "I received a phishing email asking for bank details (cannot login)",
+  "category": "Phishing \/ Online Fraud",
+  "law_section": "IT Act Section 66D"
+ },
+ {
+  "query": "I received a phishing email asking for bank details (someone changed my password)",
+  "category": "Phishing \/ Online Fraud",
+  "law_section": "IT Act Section 66D"
+ },
+ {
+  "query": "I received a phishing email asking for bank details - how to report?",
+  "category": "Phishing \/ Online Fraud",
+  "law_section": "IT Act Section 66D"
+ },
+ {
+  "query": "Someone created a fake profile using my photos",
+  "category": "Identity Theft \/ Impersonation",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "Someone created a fake profile using my photos (cannot login)",
+  "category": "Identity Theft \/ Impersonation",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "Someone created a fake profile using my photos (someone changed my password)",
+  "category": "Identity Theft \/ Impersonation",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "Someone created a fake profile using my photos - how to report?",
+  "category": "Identity Theft \/ Impersonation",
+  "law_section": "IT Act Section 66C"
+ },
+ {
+  "query": "Someone is blackmailing me with my private images",
+  "category": "Sextortion \/ Blackmail",
+  "law_section": "IPC Section 499\/506 and IT Act provisions"
+ },
+ {
+  "query": "Someone is blackmailing me with my private images (cannot login)",
+  "category": "Sextortion \/ Blackmail",
+  "law_section": "IPC Section 499\/506 and IT Act provisions"
+ },
+ {
+  "query": "Someone is blackmailing me with my private images (someone changed my password)",
+  "category": "Sextortion \/ Blackmail",
+  "law_section": "IPC Section 499\/506 and IT Act provisions"
+ },
+ {
+  "query": "Someone is blackmailing me with my private images - how to report?",
+  "category": "Sextortion \/ Blackmail",
+  "law_section": "IPC Section 499\/506 and IT Act provisions"
+ },
+ {
+  "query": "Someone is spreading false rumours about me online",
+  "category": "Defamation \/ Fake News",
+  "law_section": "IPC Section 500"
+ },
+ {
+  "query": "Someone is spreading false rumours about me online (cannot login)",
+  "category": "Defamation \/ Fake News",
+  "law_section": "IPC Section 500"
+ },
+ {
+  "query": "Someone is spreading false rumours about me online (someone changed my password)",
+  "category": "Defamation \/ Fake News",
+  "law_section": "IPC Section 500"
+ },
+ {
+  "query": "Someone is spreading false rumours about me online - how to report?",
+  "category": "Defamation \/ Fake News",
+  "law_section": "IPC Section 500"
+ },
+ {
+  "query": "I am getting threatening messages on WhatsApp",
+  "category": "Cyberstalking \/ Harassment",
+  "law_section": "IPC Section 507 and relevant IT Act provisions"
+ },
+ {
+  "query": "I am getting threatening messages on WhatsApp (cannot login)",
+  "category": "Cyberstalking \/ Harassment",
+  "law_section": "IPC Section 507 and relevant IT Act provisions"
+ },
+ {
+  "query": "I am getting threatening messages on WhatsApp (someone changed my password)",
+  "category": "Cyberstalking \/ Harassment",
+  "law_section": "IPC Section 507 and relevant IT Act provisions"
+ },
+ {
+  "query": "I am getting threatening messages on WhatsApp - how to report?",
+  "category": "Cyberstalking \/ Harassment",
+  "law_section": "IPC Section 507 and relevant IT Act provisions"
+ },
+ {
+  "query": "My company's server was attacked and data stolen",
+  "category": "Data Breach \/ Unauthorized Access",
+  "law_section": "IT Act Section 43A, Section 66"
+ },
+ {
+  "query": "My company's server was attacked and data stolen (cannot login)",
+  "category": "Data Breach \/ Unauthorized Access",
+  "law_section": "IT Act Section 43A, Section 66"
+ },
+ {
+  "query": "My company's server was attacked and data stolen (someone changed my password)",
+  "category": "Data Breach \/ Unauthorized Access",
+  "law_section": "IT Act Section 43A, Section 66"
+ },
+ {
+  "query": "My company's server was attacked and data stolen - how to report?",
+  "category": "Data Breach \/ Unauthorized Access",
+  "law_section": "IT Act Section 43A, Section 66"
+ },
+ {
+  "query": "Someone posted obscene content of me online",
+  "category": "Obscenity \/ Privacy Violation",
+  "law_section": "IT Act Section 67"
+ },
+ {
+  "query": "Someone posted obscene content of me online (cannot login)",
+  "category": "Obscenity \/ Privacy Violation",
+  "law_section": "IT Act Section 67"
+ },
+ {
+  "query": "Someone posted obscene content of me online (someone changed my password)",
+  "category": "Obscenity \/ Privacy Violation",
+  "law_section": "IT Act Section 67"
+ },
+ {
+  "query": "Someone posted obscene content of me online - how to report?",
+  "category": "Obscenity \/ Privacy Violation",
+  "law_section": "IT Act Section 67"
+ },
+ {
+  "query": "I got a message asking to click a link to verify my bank",
+  "category": "Vishing \/ Social Engineering",
+  "law_section": "IT Act Section 66D (cheating by impersonation may apply)"
+ },
+ {
+  "query": "I got a message asking to click a link to verify my bank (cannot login)",
+  "category": "Vishing \/ Social Engineering",
+  "law_section": "IT Act Section 66D (cheating by impersonation may apply)"
+ },
+ {
+  "query": "I got a message asking to click a link to verify my bank (someone changed my password)",
+  "category": "Vishing \/ Social Engineering",
+  "law_section": "IT Act Section 66D (cheating by impersonation may apply)"
+ },
+ {
+  "query": "I got a message asking to click a link to verify my bank - how to report?",
+  "category": "Vishing \/ Social Engineering",
+  "law_section": "IT Act Section 66D (cheating by impersonation may apply)"
+ },
+ {
+  "query": "Received fake invoice and paid money",
+  "category": "Online Scam \/ Financial Fraud",
+  "law_section": "IPC Section 420 and IT Act provisions"
+ },
+ {
+  "query": "Online marketplace sold me fake goods",
+  "category": "E-commerce Fraud",
+  "law_section": "Consumer Protection Act + IPC Section 420"
+ },
+ {
+  "query": "My Aadhaar details leaked online",
+  "category": "Data Privacy \/ Identity Theft",
+  "law_section": "IT Act provisions & Aadhaar Act violations"
+ },
+ {
+  "query": "Received threatening email with my leaked data",
+  "category": "Doxxing \/ Threat",
+  "law_section": "IPC sections related to intimidation and IT Act"
+ },
+ {
+  "query": "Someone used my bank UPI to transfer money",
+  "category": "Payment Fraud \/ Unauthorized Transaction",
+  "law_section": "IPC Section 420, IT Act"
+ },
+ {
+  "query": "Someone keeps making fake calls pretending to be bank",
+  "category": "Phone Scam \/ Impersonation",
+  "law_section": "IPC Section 419\/420 and IT Act overlaps"
+ },
+ {
+  "query": "Website showing fake 'login' appears for my bank",
+  "category": "Phishing Site \/ Credential Harvesting",
+  "law_section": "IT Act Section 66D and related sections"
+ },
+ {
+  "query": "I found malware on my PC encrypting files",
+  "category": "Ransomware \/ Malware Attack",
+  "law_section": "IT Act Section 66 and related cybercrime provisions"
+ },
+ {
+  "query": "Someone sold my personal data to third parties",
+  "category": "Data Trade \/ Privacy Violation",
+  "law_section": "IT Act Section 43A, Data Protection rules"
+ },
+ {
+  "query": "Received sexual messages from unknown person",
+  "category": "Harassment \/ Obscenity",
+  "law_section": "IT Act Section 67 and IPC"
+ },
+ {
+  "query": "My child is being targeted online by strangers",
+  "category": "Child Safety \/ Grooming",
+  "law_section": "IPC protections for minors and IT Act"
+ },
+ {
+  "query": "Fake job interview asked personal documents",
+  "category": "Recruitment Scam \/ Fraud",
+  "law_section": "IPC Section 420 and IT Act"
+ },
+ {
+  "query": "Someone posted my phone number publicly with malicious intent",
+  "category": "Privacy Violation \/ Doxxing",
+  "law_section": "IPC and IT Act provisions"
+ },
+ {
+  "query": "My online reviews are being manipulated",
+  "category": "Reputation Attack \/ Fake Reviews",
+  "law_section": "Consumer protection and IPC sections"
+ },
+ {
+  "query": "Unauthorized person accessed office CCTV",
+  "category": "Unauthorized Access \/ Surveillance",
+  "law_section": "IT Act and IPC"
+ },
+ {
+  "query": "Someone tried to extort my company with threats to leak data",
+  "category": "Corporate Extortion \/ Ransom",
+  "law_section": "IPC and IT Act"
+ },
+ {
+  "query": "I was scammed on a social media ad",
+  "category": "Social Media Scam",
+  "law_section": "IPC Section 420 and IT Act"
+ },
+ {
+  "query": "My website is defaced by unknown hackers",
+  "category": "Website Defacement \/ Cyber Vandalism",
+  "law_section": "IT Act Section 66 and related sections"
+ },
+ {
+  "query": "Received message claiming my bank account will be frozen",
+  "category": "Scareware \/ Fraud",
+  "law_section": "IT Act and IPC provisions"
+ },
+ {
+  "query": "Someone cloned my SIM and received OTPs",
+  "category": "SIM Swap \/ Identity Theft",
+  "law_section": "IPC and TRAI guidelines may apply"
+ },
+ {
+  "query": "My business account on marketplace was hijacked",
+  "category": "Account Takeover \/ Business Fraud",
+  "law_section": "IT Act Section 66C and IPC"
+ },
+ {
+  "query": "They posted a video defaming my character",
+  "category": "Defamation \/ Video Content",
+  "law_section": "IPC Section 500"
+ },
+ {
+  "query": "Someone sent me a fake legal notice via email",
+  "category": "Legal Notice Scam \/ Fraud",
+  "law_section": "IPC Section 420"
+ },
+ {
+  "query": "I received an SMS with a malware link",
+  "category": "SMS Malware \/ Smishing",
+  "law_section": "IT Act sections on hacking and malware"
+ },
+ {
+  "query": "My company received a DDoS attack",
+  "category": "DDoS \/ Service Disruption",
+  "law_section": "IT Act and cyber security provisions"
+ },
+ {
+  "query": "Someone threatened to leak my chats publicly",
+  "category": "Threat \/ Extortion",
+  "law_section": "IPC and IT Act provisions"
+ },
+ {
+  "query": "I found my organization's database for sale on dark web",
+  "category": "Data Leak \/ Dark Web Sale",
+  "law_section": "IT Act and data protection laws"
+ },
+ {
+  "query": "Someone sent me employment offer for upfront payment",
+  "category": "Advance Fee Fraud \/ Job Scam",
+  "law_section": "IPC Section 420 and IT Act"
+ },
+ {
+  "query": "Someone is using my trademark without permission online",
+  "category": "IP Infringement \/ Trademark Abuse",
+  "law_section": "Intellectual Property laws and IT Act overlaps"
+ },
+ {
+  "query": "My friend received a call saying family in trouble and asked for money",
+  "category": "Emergency Scam \/ Impersonation",
+  "law_section": "IPC Section 419\/420"
+ },
+ {
+  "query": "Someone accessed my cloud storage and deleted files",
+  "category": "Unauthorized Access \/ Data Loss",
+  "law_section": "IT Act Section 66"
+ },
+ {
+  "query": "I received fake KYC request to upload documents",
+  "category": "KYC Scam \/ Identity Fraud",
+  "law_section": "IPC and IT Act"
+ },
+ {
+  "query": "Someone posted a fake obituary about me",
+  "category": "Fake Post \/ Reputation Damage",
+  "law_section": "IPC and civil remedies"
+ },
+ {
+  "query": "My social media account is used to send spam to my contacts",
+  "category": "Account Compromise \/ Spam",
+  "law_section": "IT Act Section 66 and related sections"
+ },
+ {
+  "query": "Received threat messages including address and family details",
+  "category": "Threat \/ Doxxing",
+  "law_section": "IPC and IT Act"
+ },
+ {
+  "query": "A stranger asked my child to meet offline after chatting",
+  "category": "Child Grooming \/ Safety",
+  "law_section": "Protection of Children laws and IPC"
+ },
+ {
+  "query": "Someone sold counterfeit tickets using our event page",
+  "category": "E-ticketing Fraud \/ Marketplace Scam",
+  "law_section": "IPC and consumer protection laws"
+ },
+ {
+  "query": "My email account sends spam without my knowledge",
+  "category": "Email Compromise \/ Botnet",
+  "law_section": "IT Act and cybercrime provisions"
+ },
+ {
+  "query": "My crypto wallet got drained",
+  "category": "Cryptocurrency Fraud \/ Theft",
+  "law_section": "IPC and cybercrime laws (evolving)"
+ },
+ {
+  "query": "Someone threatened to create fake obscene videos of me",
+  "category": "Threat \/ Extortion \/ Revenge Porn",
+  "law_section": "IPC & IT Act sections on privacy and extortion"
+ },
+ {
+  "query": "Website asking to download 'update' infected files",
+  "category": "Malware Distribution \/ Fake Updates",
+  "law_section": "IT Act sections on malware distribution"
+ },
+ {
+  "query": "Someone posted my child's images on a public group",
+  "category": "Child Privacy Violation \/ Abuse",
+  "law_section": "IPC and Protection of Children laws"
+ },
+ {
+  "query": "I received a legal-looking email requesting Rs. for settlement",
+  "category": "Settlement Scam \/ Extortion",
+  "law_section": "IPC Section 420 and extortion laws"
+ },
+ {
+  "query": "Fake scholarship website asking for bank details",
+  "category": "Scholarship Scam \/ Phishing",
+  "law_section": "IPC and IT Act"
+ },
+ {
+  "query": "Someone registered domain similar to our company to trick customers",
+  "category": "Typosquatting \/ Brand Abuse",
+  "law_section": "IP laws and IT Act overlaps"
+ },
+ {
+  "query": "My phone got infected and contacts receive weird messages",
+  "category": "Mobile Malware \/ Worm",
+  "law_section": "IT Act provisions"
+ },
+ {
+  "query": "Got a message claiming prize, asked to pay delivery fee",
+  "category": "Prize Scam \/ Advance Fee",
+  "law_section": "IPC Section 420 and IT Act"
+ },
+ {
+  "query": "What rights do individuals have under the Digital Personal Data Protection Act, 2023?",
+  "category": "Data Privacy and User Rights",
+  "law_section": "DPDPA 2023 - Section 12 (Rights of Data Principals)"
+ },
+ {
+  "query": "What is the procedure for obtaining user consent under DPDPA 2023?",
+  "category": "Consent and Data Collection",
+  "law_section": "DPDPA 2023 - Section 6 (Consent for Processing of Personal Data)"
+ },
+ {
+  "query": "If a company shares user data with a third party without consent, which section of DPDPA 2023 applies?",
+  "category": "Unauthorized Data Sharing",
+  "law_section": "DPDPA 2023 - Section 8 (Processing of Personal Data by Data Fiduciary)"
+ },
+ {
+  "query": "How should organizations report a data breach under DPDPA 2023?",
+  "category": "Data Breach Reporting",
+  "law_section": "DPDPA 2023 - Section 9 (Reporting Data Breach to Data Protection Board)"
+ },
+ {
+  "query": "What are the penalties for non-compliance under DPDPA 2023?",
+  "category": "Legal Penalties and Enforcement",
+  "law_section": "DPDPA 2023 - Section 33 (Penalties for Breach of Obligations)"
+ },
+ {
+  "query": "A social media platform collects children’s personal data without parental consent. Which DPDPA section governs this?",
+  "category": "Children’s Data Protection",
+  "law_section": "DPDPA 2023 - Section 10 (Processing of Personal Data of Children)"
+ },
+ {
+  "query": "How does DPDPA 2023 ensure data storage and transfer security for cross-border data flows?",
+  "category": "Cross-Border Data Transfer",
+  "law_section": "DPDPA 2023 - Section 16 (Transfer of Personal Data Outside India)"
+ },
+ {
+  "query": "What steps must a Data Fiduciary take to ensure compliance with the DPDPA 2023?",
+  "category": "Corporate Compliance",
+  "law_section": "DPDPA 2023 - Section 7 (Duties of Data Fiduciaries)"
+ },
+ {
+  "query": "What cyber offences are covered under the Bharatiya Nyaya Sanhita 2023?",
+  "category": "Cybercrime and Offences",
+  "law_section": "BNS 2023 - Section 111 (Cyber Fraud and Data Theft)"
+ },
+ {
+  "query": "How does BNS 2023 address identity theft and impersonation in online platforms?",
+  "category": "Online Identity & Fraud",
+  "law_section": "BNS 2023 - Section 112 (Identity Theft and Impersonation)"
+ },
+ {
+  "query": "What punishment is prescribed under BNS 2023 for publishing obscene content online?",
+  "category": "Online Content & Morality",
+  "law_section": "BNS 2023 - Section 120 (Obscene Electronic Material)"
+ },
+ {
+  "query": "How does BNS 2023 deal with digital financial fraud and phishing scams?",
+  "category": "Digital Financial Crime",
+  "law_section": "BNS 2023 - Section 113 (Online Financial Fraud)"
+ },
+ {
+  "query": "If someone spreads fake news online, which section of BNS 2023 applies?",
+  "category": "Digital Misinformation",
+  "law_section": "BNS 2023 - Section 115 (Spreading False Electronic Information)"
+ },
+ {
+  "query": "How does the Jan Vishwas Act 2023 reform penalties for cyber law violations?",
+  "category": "Legal Reforms",
+  "law_section": "Jan Vishwas Act 2023 - IT Act Amendments"
+ },
+ {
+  "query": "Which sections of the IT Act were decriminalized under the Jan Vishwas Act 2023?",
+  "category": "Decriminalization & Compliance",
+  "law_section": "Jan Vishwas Act 2023 - Schedule II, IT Act 2000"
+ },
+ {
+  "query": "How does Jan Vishwas Act 2023 encourage ease of doing business in digital space?",
+  "category": "Digital Governance",
+  "law_section": "Jan Vishwas Act 2023 - Administrative Reforms"
+ },
+ {
+  "query": "If a company violates IT intermediary rules, how does the Jan Vishwas Act impact penalties?",
+  "category": "Intermediary Compliance",
+  "law_section": "Jan Vishwas Act 2023 - IT Act Section 43A (Amended)"
+ },
+ {
+  "query": "What is the objective of the Jan Vishwas Act in reducing criminal liability in digital laws?",
+  "category": "Legal Simplification",
+  "law_section": "Jan Vishwas Act 2023 - Policy Objective"
+ },
+ {
+  "query": "What are the due diligence requirements for intermediaries under IT Rules 2011?",
+  "category": "Intermediary Guidelines",
+  "law_section": "IT Rules 2011 - Rule 3"
+ },
+ {
+  "query": "How should companies handle user complaints as per IT Rules 2011?",
+  "category": "Grievance Redressal",
+  "law_section": "IT Rules 2011 - Rule 3(11)"
+ },
+ {
+  "query": "What are the obligations of cyber cafes under the IT Rules 2011?",
+  "category": "Cyber Café Regulations",
+  "law_section": "IT Rules 2011 - Rule 4"
+ },
+ {
+  "query": "How does IT Rules 2011 define objectionable online content?",
+  "category": "Content Moderation",
+  "law_section": "IT Rules 2011 - Rule 3(2)(b)"
+ },
+ {
+  "query": "What is the time limit for intermediaries to remove illegal content after notice?",
+  "category": "Takedown & Compliance",
+  "law_section": "IT Rules 2011 - Rule 3(4)"
+ },
+ {
+  "query": "What new due diligence rules were introduced under IT Rules 2021?",
+  "category": "Intermediary Compliance",
+  "law_section": "IT Rules 2021 - Rule 4(1)"
+ },
+ {
+  "query": "How do the IT Rules 2021 regulate social media platforms and OTT content?",
+  "category": "Online Content Regulation",
+  "law_section": "IT Rules 2021 - Part II"
+ },
+ {
+  "query": "What is the role of the Grievance Officer under IT Rules 2021?",
+  "category": "Grievance Redressal",
+  "law_section": "IT Rules 2021 - Rule 4(1)(d)"
+ },
+ {
+  "query": "How should digital news publishers comply with IT Rules 2021?",
+  "category": "Digital Media Ethics",
+  "law_section": "IT Rules 2021 - Rule 9"
+ },
+ {
+  "query": "What penalties exist for non-compliance with IT Rules 2021?",
+  "category": "Enforcement",
+  "law_section": "IT Rules 2021 - Rule 7"
+ },
+ {
+  "query": "How is electronic evidence admissible in Indian courts?",
+  "category": "Digital Evidence",
+  "law_section": "Indian Evidence Act - Section 65B"
+ },
+ {
+  "query": "What conditions must be met for an email to be used as evidence?",
+  "category": "Electronic Communication",
+  "law_section": "Indian Evidence Act - Section 65B(2)"
+ },
+ {
+  "query": "Can WhatsApp chats be used as valid evidence?",
+  "category": "Digital Messaging Evidence",
+  "law_section": "Indian Evidence Act - Section 65B(4)"
+ },
+ {
+  "query": "What is the role of certification in authenticating digital documents?",
+  "category": "Electronic Authentication",
+  "law_section": "Indian Evidence Act - Section 65B(1)"
+ },
+ {
+  "query": "How is metadata considered under the Indian Evidence Act?",
+  "category": "Data Integrity",
+  "law_section": "Indian Evidence Act - Section 22A"
+ },
+ {
+  "query": "How does the Indian Telegraph Act regulate interception of communication?",
+  "category": "Surveillance & Interception",
+  "law_section": "Indian Telegraph Act, 1885 - Section 5(2)"
+ },
+ {
+  "query": "Under what circumstances can the government intercept messages?",
+  "category": "National Security",
+  "law_section": "Indian Telegraph Act, 1885 - Section 5(1)"
+ },
+ {
+  "query": "What are the penalties for unlawful interception of messages?",
+  "category": "Privacy Violation",
+  "law_section": "Indian Telegraph Act, 1885 - Section 24"
+ },
+ {
+  "query": "How does this Act relate to modern internet monitoring?",
+  "category": "Telecommunication Oversight",
+  "law_section": "Indian Telegraph Act, 1885 - Section 7"
+ },
+ {
+  "query": "How does the Telegraph Act support cyber investigation authorities?",
+  "category": "Law Enforcement Access",
+  "law_section": "Indian Telegraph Act, 1885 - Section 26"
+ },
+ {
+  "query": "What provisions of BNSS 2023 apply to cyber investigations?",
+  "category": "Cyber Investigation",
+  "law_section": "BNSS 2023 - Section 173"
+ },
+ {
+  "query": "How does BNSS 2023 ensure digital evidence collection procedures?",
+  "category": "Evidence Collection",
+  "law_section": "BNSS 2023 - Section 176"
+ },
+ {
+  "query": "What is the role of e-FIR under BNSS 2023?",
+  "category": "Digital Policing",
+  "law_section": "BNSS 2023 - Section 173A"
+ },
+ {
+  "query": "How does BNSS 2023 modernize law enforcement in cybercrime?",
+  "category": "Modern Policing",
+  "law_section": "BNSS 2023 - Section 182"
+ },
+ {
+  "query": "What procedural safeguards exist for handling electronic records?",
+  "category": "Data Handling & Chain of Custody",
+  "law_section": "BNSS 2023 - Section 184"
+ },
+ {
+  "query": "Someone created a fake Instagram profile using my photos",
+  "category": "Online Identity Theft",
+  "law_section": "BNS 2023 - Section 112"
+ },
+ {
+  "query": "My social media account was hacked and I lost access",
+  "category": "Account Hacking",
+  "law_section": "IT Act 2000 - Section 66"
+ },
+ {
+  "query": "I received fake job offers asking for money",
+  "category": "Online Job Fraud",
+  "law_section": "BNS 2023 - Section 113"
+ },
+ {
+  "query": "A company is selling my personal data without permission",
+  "category": "Data Misuse",
+  "law_section": "DPDPA 2023 - Section 7"
+ },
+ {
+  "query": "I got threatening messages through social media",
+  "category": "Cyber Threat",
+  "law_section": "BNS 2023 - Section 120"
+ },
+ {
+  "query": "My private photos were leaked online without consent",
+  "category": "Privacy Violation",
+  "law_section": "DPDPA 2023 - Section 8"
+ },
+ {
+  "query": "A website collected my personal data without informing me",
+  "category": "Consent Violation",
+  "law_section": "DPDPA 2023 - Section 6"
+ },
+ {
+  "query": "Someone spread false information about me online",
+  "category": "Online Defamation",
+  "law_section": "BNS 2023 - Section 115"
+ },
+ {
+  "query": "I was asked to share my OTP for a refund scam",
+  "category": "Phishing & OTP Fraud",
+  "law_section": "IT Act 2000 - Section 66D"
+ },
+ {
+  "query": "I saw a fake government website collecting personal data",
+  "category": "Cyber Fraud",
+  "law_section": "IT Rules 2021 - Rule 3"
+ },
+ {
+  "query": "A stranger is sending me obscene photos on Instagram",
+  "category": "Cyber Harassment",
+  "law_section": "BNS 2023 - Section 120"
+ },
+ {
+  "query": "My child’s photos were used on another account without consent",
+  "category": "Child Data Protection",
+  "law_section": "DPDPA 2023 - Section 10"
+ },
+ {
+  "query": "I lost money in an online shopping scam",
+  "category": "E-commerce Fraud",
+  "law_section": "BNS 2023 - Section 113"
+ },
+ {
+  "query": "Someone accessed my laptop camera remotely",
+  "category": "Device Intrusion",
+  "law_section": "IT Act 2000 - Section 66E"
+ },
+ {
+  "query": "My company’s database was hacked and client data leaked",
+  "category": "Data Breach",
+  "law_section": "DPDPA 2023 - Section 9"
+ },
+ {
+  "query": "I received an SMS scam about a lottery win",
+  "category": "SMS Phishing",
+  "law_section": "IT Rules 2011 - Rule 3"
+ },
+ {
+  "query": "A friend recorded my video call without permission",
+  "category": "Privacy Breach",
+  "law_section": "DPDPA 2023 - Section 12"
+ },
+ {
+  "query": "I found a fake business page using my brand logo",
+  "category": "Online Impersonation",
+  "law_section": "BNS 2023 - Section 112"
+ },
+ {
+  "query": "Someone sent me threats to delete my account",
+  "category": "Cyber Intimidation",
+  "law_section": "BNS 2023 - Section 120"
+ },
+ {
+  "query": "A company refused to delete my account data",
+  "category": "Data Retention Issue",
+  "law_section": "DPDPA 2023 - Section 11"
+ },
+ {
+  "query": "I was tricked into paying money for a fake loan app",
+  "category": "Financial Fraud",
+  "law_section": "BNS 2023 - Section 113"
+ },
+ {
+  "query": "My email was accessed by an unknown IP address",
+  "category": "Unauthorized Access",
+  "law_section": "IT Act 2000 - Section 43"
+ },
+ {
+  "query": "Police requested my phone data as digital evidence",
+  "category": "Digital Evidence Use",
+  "law_section": "Indian Evidence Act - Section 65B"
+ },
+ {
+  "query": "I received multiple spam calls promoting products",
+  "category": "Unsolicited Communication",
+  "law_section": "Indian Telegraph Act - Section 5"
+ },
+ {
+  "query": "A YouTube channel used my copyrighted video",
+  "category": "Copyright Infringement",
+  "law_section": "IT Act 2000 - Section 65"
+ },
+ {
+  "query": "My private chat screenshots were shared online",
+  "category": "Data Privacy Breach",
+  "law_section": "DPDPA 2023 - Section 8"
+ },
+ {
+  "query": "An app is collecting my location without clear consent",
+  "category": "Data Tracking Issue",
+  "law_section": "DPDPA 2023 - Section 6"
+ },
+ {
+  "query": "I got scammed by a crypto trading platform",
+  "category": "Cryptocurrency Fraud",
+  "law_section": "BNS 2023 - Section 113"
+ },
+ {
+  "query": "A fake account sent me blackmail messages",
+  "category": "Cyber Blackmail",
+  "law_section": "BNS 2023 - Section 111"
+ },
+ {
+  "query": "My identity documents were uploaded online without permission",
+  "category": "Personal Data Exposure",
+  "law_section": "DPDPA 2023 - Section 7"
+ },
+ {
+  "query": "My personal photos were edited and shared on WhatsApp",
+  "category": "Image Misuse",
+  "law_section": "BNS 2023 - Section 111"
+ },
+ {
+  "query": "I found a duplicate website selling fake versions of my product",
+  "category": "Brand Impersonation",
+  "law_section": "BNS 2023 - Section 112"
+ },
+ {
+  "query": "My Aadhaar number was posted online",
+  "category": "Sensitive Personal Data Leak",
+  "law_section": "DPDPA 2023 - Section 7"
+ },
+ {
+  "query": "A mobile app asked for unnecessary permissions",
+  "category": "Data Minimization Violation",
+  "law_section": "DPDPA 2023 - Section 5"
+ },
+ {
+  "query": "I received repeated spam emails even after unsubscribing",
+  "category": "Communication Misuse",
+  "law_section": "IT Rules 2021 - Rule 4"
+ },
+ {
+  "query": "Someone is using my PAN card for illegal transactions",
+  "category": "Identity Theft",
+  "law_section": "BNS 2023 - Section 112"
+ },
+ {
+  "query": "I saw a Telegram group selling leaked exam papers",
+  "category": "Unauthorized Data Distribution",
+  "law_section": "IT Act 2000 - Section 66"
+ },
+ {
+  "query": "A person uploaded my contact details on a public forum",
+  "category": "Privacy Violation",
+  "law_section": "DPDPA 2023 - Section 8"
+ },
+ {
+  "query": "I lost access to my business email account",
+  "category": "Email Hacking",
+  "law_section": "IT Act 2000 - Section 43"
+ },
+ {
+  "query": "My online shopping payment failed but money was deducted",
+  "category": "Online Transaction Issue",
+  "law_section": "BNSS 2023 - Section 178"
+ },
+ {
+  "query": "A police officer demanded my phone password without warrant",
+  "category": "Search & Seizure Rules",
+  "law_section": "BNSS 2023 - Section 185"
+ },
+ {
+  "query": "I want to submit a screenshot as digital evidence in court",
+  "category": "Digital Evidence Admissibility",
+  "law_section": "Indian Evidence Act - Section 65B"
+ },
+ {
+  "query": "My SIM was cloned and used to make fraudulent calls",
+  "category": "SIM Card Cloning",
+  "law_section": "Indian Telegraph Act - Section 5"
+ },
+ {
+  "query": "A government site didn’t inform users about data usage",
+  "category": "Data Transparency",
+  "law_section": "DPDPA 2023 - Section 6"
+ },
+ {
+  "query": "Someone modified my academic certificate PDF",
+  "category": "Document Forgery",
+  "law_section": "IT Act 2000 - Section 65"
+ },
+ {
+  "query": "I got a fake parcel delivery message with a phishing link",
+  "category": "Phishing Scam",
+  "law_section": "IT Act 2000 - Section 66D"
+ },
+ {
+  "query": "I noticed malware in a free app downloaded from the web",
+  "category": "Malware Distribution",
+  "law_section": "IT Act 2000 - Section 66F"
+ },
+ {
+  "query": "A website refused to remove defamatory content",
+  "category": "Content Moderation Violation",
+  "law_section": "IT Rules 2021 - Rule 7"
+ },
+ {
+  "query": "A fake investment site promised high returns and disappeared",
+  "category": "Online Ponzi Scheme",
+  "law_section": "BNS 2023 - Section 113"
+ },
+ {
+  "query": "I was removed from a group chat after reporting cyberbullying",
+  "category": "Retaliation after Reporting",
+  "law_section": "BNS 2023 - Section 120"
+ },
+ {
+  "query": "A journalist’s email was intercepted by unknown persons",
+  "category": "Interception & Surveillance",
+  "law_section": "Indian Telegraph Act - Section 5(2)"
+ },
+ {
+  "query": "My device is being tracked remotely by spyware",
+  "category": "Cyber Espionage",
+  "law_section": "IT Act 2000 - Section 66F"
+ },
+ {
+  "query": "Someone used my phone number for fake OTP verification",
+  "category": "Identity Misuse",
+  "law_section": "BNS 2023 - Section 112"
+ },
+ {
+  "query": "My location data was used for targeted ads without consent",
+  "category": "Data Profiling",
+  "law_section": "DPDPA 2023 - Section 6"
+ },
+ {
+  "query": "I received a deepfake video of myself",
+  "category": "Deepfake & AI Misuse",
+  "law_section": "BNS 2023 - Section 111"
+ },
+ {
+  "query": "A YouTuber leaked my private email conversation",
+  "category": "Unauthorized Disclosure",
+  "law_section": "DPDPA 2023 - Section 8"
+ },
+ {
+  "query": "My online complaint wasn’t resolved by authorities",
+  "category": "Grievance Redressal",
+  "law_section": "Jan Vishwas Act 2023 - Section"
+ },
+ {
+  "query": "A company didn’t update my personal information despite request",
+  "category": "Data Correction Right",
+  "law_section": "DPDPA 2023 - Section 12"
+ },
+ {
+  "query": "A fraudster used fake UPI links to steal my money",
+  "category": "UPI Fraud",
+  "law_section": "BNS 2023 - Section 113"
+ },
+ {
+  "query": "My employer installed keylogger software without notice",
+  "category": "Workplace Privacy Violation",
+  "law_section": "DPDPA 2023 - Section 9"
+ },
+ {
+  "query": "I got multiple marketing calls despite being on DND",
+  "category": "Unsolicited Communication",
+  "law_section": "Indian Telegraph Act - Section 20"
+ },
+ {
+  "query": "Someone spread fake news about a political event",
+  "category": "Fake Information",
+  "law_section": "BNS 2023 - Section 115"
+ },
+ {
+  "query": "I want to remove old posts containing my personal info",
+  "category": "Right to Erasure",
+  "law_section": "DPDPA 2023 - Section 13"
+ },
+ {
+  "query": "I got harassing comments under my social media post",
+  "category": "Cyber Bullying",
+  "law_section": "BNS 2023 - Section 120"
+ },
+ {
+  "query": "A digital signature was forged on my business contract",
+  "category": "Digital Signature Forgery",
+  "law_section": "IT Act 2000 - Section 73"
+ },
+ {
+  "query": "My friend’s WhatsApp chat backup got leaked",
+  "category": "Data Backup Breach",
+  "law_section": "DPDPA 2023 - Section 8"
+ },
+ {
+  "query": "I received a threatening email demanding money",
+  "category": "Cyber Extortion",
+  "law_section": "BNS 2023 - Section 111"
+ },
+ {
+  "query": "A website used my photograph in an advertisement",
+  "category": "Image Rights Violation",
+  "law_section": "DPDPA 2023 - Section 7"
+ },
+ {
+  "query": "I reported a cyber fraud but got no reply",
+  "category": "Citizen Complaint Handling",
+  "law_section": "BNSS 2023 - Section 200"
+ },
+ {
+  "query": "Someone created a fake account of my company on LinkedIn",
+  "category": "Corporate Identity Theft",
+  "law_section": "BNS 2023 - Section 112"
+ },
+ {
+  "query": "My credit card details were leaked by an online store",
+  "category": "Payment Data Leak",
+  "law_section": "DPDPA 2023 - Section 7"
+ },
+ {
+  "query": "I was denied service because I refused data collection",
+  "category": "Consent Withdrawal Issue",
+  "law_section": "DPDPA 2023 - Section 6(4)"
+ },
+ {
+  "query": "My webcam light turns on without me opening the camera",
+  "category": "Device Compromise",
+  "law_section": "IT Act 2000 - Section 66E"
+ },
+ {
+  "query": "A news portal spread defamatory statements online",
+  "category": "Online Defamation",
+  "law_section": "BNS 2023 - Section 115"
+ },
+ {
+  "query": "A company tracked my browser cookies without notice",
+  "category": "Web Tracking Violation",
+  "law_section": "IT Rules 2021 - Rule 5"
+ },
+ {
+  "query": "My online course certificate was copied and resold",
+  "category": "Digital Copyright Violation",
+  "law_section": "IT Act 2000 - Section 65"
+ },
+ {
+  "query": "Someone impersonated a police officer online",
+  "category": "Digital Impersonation",
+  "law_section": "BNS 2023 - Section 112"
+ },
+ {
+  "query": "I want to submit CCTV footage in a cyber theft case",
+  "category": "Video Evidence Submission",
+  "law_section": "Indian Evidence Act - Section 65B"
+ },
+ {
+  "query": "I saw a leaked government database on the dark web",
+  "category": "Unauthorized Disclosure",
+  "law_section": "DPDPA 2023 - Section 8"
+ },
+ {
+  "query": "I was added to multiple groups without my consent",
+  "category": "Data Collection Misuse",
+  "law_section": "DPDPA 2023 - Section 6"
+ },
+ {
+  "query": "A YouTube scam promised instant profit with fake apps",
+  "category": "Online Scam",
+  "law_section": "BNS 2023 - Section 113"
+ },
+ {
+  "query": "I received a call pretending to be from a courier service",
+  "category": "Social Engineering Fraud",
+  "law_section": "IT Act 2000 - Section 66D"
+ },
+ {
+  "query": "My online payment details were intercepted",
+  "category": "Network Interception",
+  "law_section": "IT Act 2000 - Section 66C"
+ },
+ {
+  "query": "I got an offensive meme shared with my picture",
+  "category": "Online Harassment",
+  "law_section": "BNS 2023 - Section 120"
+ },
+ {
+  "query": "My personal messages were used in a court case",
+  "category": "Digital Evidence Collection",
+  "law_section": "Indian Evidence Act - Section 65B"
+ },
+ {
+  "query": "A company didn’t inform me about data breach promptly",
+  "category": "Breach Notification Violation",
+  "law_section": "DPDPA 2023 - Section 9"
+ },
+ {
+  "query": "My face was used in a fake video ad",
+  "category": "Deepfake Misrepresentation",
+  "law_section": "BNS 2023 - Section 111"
+ },
+ {
+  "query": "An app stored my voice data without consent",
+  "category": "Biometric Data Misuse",
+  "law_section": "DPDPA 2023 - Section 7"
+ },
+ {
+  "query": "I found multiple fake profiles using celebrity names",
+  "category": "Impersonation",
+  "law_section": "BNS 2023 - Section 112"
+ },
+ {
+  "query": "My call recordings were leaked from a telecom company",
+  "category": "Communication Privacy Violation",
+  "law_section": "Indian Telegraph Act - Section 5"
+ },
+ {
+  "query": "I was arrested for a cyber complaint without proper notice",
+  "category": "Legal Procedure Error",
+  "law_section": "BNSS 2023 - Section 35"
+ },
+ {
+  "query": "My deleted data was still visible on an app",
+  "category": "Data Erasure Violation",
+  "law_section": "DPDPA 2023 - Section 13"
+ },
+ {
+  "query": "Someone edited my resume and posted it online",
+  "category": "Document Tampering",
+  "law_section": "IT Act 2000 - Section 65"
+ },
+ {
+  "query": "I was fined unfairly for delayed online compliance",
+  "category": "Penalty Reduction Reform",
+  "law_section": "Jan Vishwas Act 2023 - Section 4"
+ },
+ {
+  "query": "I reported a cyberbully but they created another account",
+  "category": "Repeat Harassment",
+  "law_section": "BNS 2023 - Section 120"
+ },
+ {
+  "query": "A digital loan app accessed my contact list",
+  "category": "Data Overreach",
+  "law_section": "DPDPA 2023 - Section 5"
+ },
+ {
+  "query": "My fingerprint data was leaked from a biometric system",
+  "category": "Sensitive Data Breach",
+  "law_section": "DPDPA 2023 - Section 7"
+ },
+ {
+  "query": "I noticed tampering in digital court documents",
+  "category": "E-evidence Integrity",
+  "law_section": "Indian Evidence Act - Section 65B"
+ },
+ {
+  "query": "My private call recordings were shared publicly",
+  "category": "Communication Breach",
+  "law_section": "Indian Telegraph Act - Section 5"
+ },
+ {
+  "query": "My report against a scam was delayed in filing",
+  "category": "Complaint Registration Delay",
+  "law_section": "BNSS 2023 - Section 200"
+ }
+]

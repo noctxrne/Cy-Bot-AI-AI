@@ -1,0 +1,884 @@
+[
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER I: PRELIMINARY",
+    "section": "Section 1",
+    "section_name": "Short title and commencement",
+    "description": "This Act may be called the Digital Personal Data Protection Act, 2023. It will come into force on dates to be notified by the Central Government.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER I: PRELIMINARY",
+    "section": "Section 2",
+    "section_name": "Definitions",
+    "description": "Defines fundamental terms for the entire Act, including 'Data Principal', 'Data Fiduciary', 'Data Processor', 'personal data', 'digital personal data', 'processing', 'personal data breach', and 'Significant Data Fiduciary'.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER I: PRELIMINARY",
+    "section": "Section 3",
+    "section_name": "Application of Act",
+    "description": "The Act applies to the processing of digital personal data within India. It also applies to the processing of such data outside India if it is for offering goods or services to individuals within India. It does not apply to personal data processed by individuals for personal purposes.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER II: OBLIGATIONS OF DATA FIDUCIARY",
+    "section": "Section 4",
+    "section_name": "Grounds for processing personal data",
+    "description": "Personal data can only be processed with the consent of the Data Principal or for 'certain legitimate uses' as specified in the Act, such as for compliance with a law, for a medical emergency, or for employment-related purposes.",
+    "punishment": "Penalty for breach is specified in Chapter VIII of the Act."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER II: OBLIGATIONS OF DATA FIDUCIARY",
+    "section": "Section 5",
+    "section_name": "Notice",
+    "description": "Before seeking consent, a Data Fiduciary must give the Data Principal a notice detailing the personal data to be collected, the purpose of processing, the ways the Data Principal can exercise their rights, and how to file a complaint with the Data Protection Board of India.",
+    "punishment": "Penalty for breach is specified in Chapter VIII of the Act."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER II: OBLIGATIONS OF DATA FIDUCIARY",
+    "section": "Section 6",
+    "section_name": "Consent",
+    "description": "Consent must be free, specific, informed, unconditional, and unambiguous, with a clear affirmative action. The Data Principal has the right to withdraw consent at any time, and the process for withdrawal must be as easy as giving consent.",
+    "punishment": "Penalty for breach is specified in Chapter VIII of the Act."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER II: OBLIGATIONS OF DATA FIDUCIARY",
+    "section": "Section 7",
+    "section_name": "Certain legitimate uses",
+    "description": "Specifies the grounds on which a Data Fiduciary can process personal data without consent, including for voluntary data provided by the user, for providing government subsidies/benefits, for compliance with judgments, for medical emergencies, and for employment purposes.",
+    "punishment": "Penalty for breach is specified in Chapter VIII of the Act."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER II: OBLIGATIONS OF DATA FIDUCIARY",
+    "section": "Section 8",
+    "section_name": "General obligations of Data Fiduciary",
+    "description": "A Data Fiduciary is responsible for ensuring compliance and must implement security safeguards to prevent data breaches. In the event of a breach, they must inform the Board and affected Data Principals. They must erase data when consent is withdrawn or the purpose is served.",
+    "punishment": "Penalty for breach is specified in Chapter VIII of the Act."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER II: OBLIGATIONS OF DATA FIDUCIARY",
+    "section": "Section 9",
+    "section_name": "Processing of personal data of children",
+    "description": "Processing the personal data of a child (under 18) requires verifiable parental consent. Data Fiduciaries are prohibited from tracking children or conducting targeted advertising directed at them, unless they are a government-approved educational institution.",
+    "punishment": "Penalty for breach is specified in Chapter VIII of the Act."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER II: OBLIGATIONS OF DATA FIDUCIARY",
+    "section": "Section 10",
+    "section_name": "Additional obligations of Significant Data Fiduciary",
+    "description": "The Central Government can notify certain entities as 'Significant Data Fiduciaries' based on factors like data volume and risk. They have additional obligations, including appointing a Data Protection Officer based in India, conducting independent data audits, and carrying out Data Protection Impact Assessments.",
+    "punishment": "Penalty for breach is specified in Chapter VIII of the Act."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER III: RIGHTS AND DUTIES OF DATA PRINCIPAL",
+    "section": "Section 11",
+    "section_name": "Right to access information about personal data",
+    "description": "A Data Principal has the right to obtain a summary of their personal data being processed, the processing activities, and the identities of other Data Fiduciaries with whom the data has been shared.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER III: RIGHTS AND DUTIES OF DATA PRINCIPAL",
+    "section": "Section 12",
+    "section_name": "Right to correction and erasure of personal data",
+    "description": "A Data Principal has the right to correct inaccurate or incomplete personal data and to request the erasure of their data if it is no longer necessary for the specified purpose or if consent has been withdrawn.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER III: RIGHTS AND DUTIES OF DATA PRINCIPAL",
+    "section": "Section 13",
+    "section_name": "Right of grievance redressal",
+    "description": "A Data Principal has the right to have a readily available grievance redressal mechanism from the Data Fiduciary. They must approach the Fiduciary first before going to the Data Protection Board of India.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER III: RIGHTS AND DUTIES OF DATA PRINCIPAL",
+    "section": "Section 14",
+    "section_name": "Right to nominate",
+    "description": "A Data Principal can nominate another individual to exercise their rights under the Act in the event of their death or incapacity.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER III: RIGHTS AND DUTIES OF DATA PRINCIPAL",
+    "section": "Section 15",
+    "section_name": "Duties of Data Principal",
+    "description": "A Data Principal has duties, including not impersonating another person, not suppressing material information when providing data, and not filing false or frivolous grievances.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IV: SPECIAL PROVISIONS",
+    "section": "Section 16",
+    "section_name": "Cross-border transfer of personal data",
+    "description": "The Central Government may restrict the transfer of personal data to countries outside India. Otherwise, such transfers are permitted, but the Act does not provide an adequacy model like GDPR, leaving the specifics to be prescribed.",
+    "punishment": "Penalty for breach is specified in Chapter VIII of the Act."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IV: SPECIAL PROVISIONS",
+    "section": "Section 17",
+    "section_name": "Exemptions",
+    "description": "The Act's obligations on notice, consent, and rights do not apply when processing is necessary for enforcing legal rights, by courts/tribunals, for prevention/detection/investigation/prosecution of offences, or for corporate mergers/insolvency proceedings. It also provides exemptions for government processing in the interests of state security and public order.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER V: DATA PROTECTION BOARD OF INDIA",
+    "section": "Section 18",
+    "section_name": "Establishment of Board",
+    "description": "Establishes the Data Protection Board of India as an independent body to oversee and enforce the provisions of the Act.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER V: DATA PROTECTION BOARD OF INDIA",
+    "section": "Section 19",
+    "section_name": "Composition and qualifications for appointment",
+    "description": "Specifies that the Board shall consist of a Chairperson and other members appointed by the Central Government, who must be persons of ability, integrity, and standing with special knowledge in relevant fields like data governance, IT, and law.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER VI: POWERS, FUNCTIONS AND PROCEDURE",
+    "section": "Section 27",
+    "section_name": "Powers and functions of Board",
+    "description": "The Board's primary functions include inquiring into personal data breaches, directing remedial measures, imposing penalties on Data Fiduciaries for non-compliance, and handling complaints from Data Principals. It can also direct government agencies on compliance.",
+    "punishment": "The Board has the power to impose penalties as specified in Chapter VIII of the Act."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER VI: POWERS, FUNCTIONS AND PROCEDURE",
+    "section": "Section 28",
+    "section_name": "Procedure to be followed by Board",
+    "description": "The Board shall function as a digital office and conduct inquiries following the principles of natural justice. It has the same powers as a civil court, such as summoning persons, receiving evidence, and inspecting documents.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER VII: APPEAL AND ALTERNATE DISPUTE RESOLUTION",
+    "section": "Section 29",
+    "section_name": "Appeal to Appellate Tribunal",
+    "description": "Any person aggrieved by an order of the Data Protection Board of India may appeal to the Telecom Disputes Settlement and Appellate Tribunal (TDSAT) within sixty days.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER VIII: PENALTIES AND ADJUDICATION",
+    "section": "Section 30",
+    "section_name": "Penalty for contravention by Data Fiduciary",
+    "description": "Specifies the penalty for a Data Fiduciary who fails to comply with the provisions of the Act. The penalty may extend to five hundred crore rupees.",
+    "punishment": "Penalty may extend to ₹500 crore."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER VIII: PENALTIES AND ADJUDICATION",
+    "section": "Section 31",
+    "section_name": "Penalty for contravention by other persons",
+    "description": "Specifies the penalty for any person other than a Data Fiduciary (e.g., a Data Processor) who fails to comply with the provisions of the Act. The penalty may extend to fifty crore rupees.",
+    "punishment": "Penalty may extend to ₹50 crore."
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER VIII: PENALTIES AND ADJUDICATION",
+    "section": "Section 32",
+    "section_name": "Adjudication of penalty",
+    "description": "The Board shall not impose any penalty unless it has given a notice to the person alleged to have committed the contravention and has given them a reasonable opportunity of being heard.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER VIII: PENALTIES AND ADJUDICATION",
+    "section": "Section 33",
+    "section_name": "Factors to be taken into account by Board",
+    "description": "When determining the penalty amount, the Board shall consider factors such as the nature, gravity, and duration of the breach; the number of Data Principals affected; and the corrective actions taken by the person.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER VIII: PENALTIES AND ADJUDICATION",
+    "section": "Section 34",
+    "section_name": "Payment of penalty",
+    "description": "Any penalty imposed by the Board shall be paid within three months of the order. The penalty can be recovered as an arrear of land revenue.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER VIII: PENALTIES AND ADJUDICATION",
+    "section": "Section 35",
+    "section_name": "Appeal against order of penalty",
+    "description": "Any person aggrieved by an order of penalty made by the Board may prefer an appeal to the Appellate Tribunal.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IX: MISCELLANEOUS",
+    "section": "Section 36",
+    "section_name": "Power of Central Government to make rules",
+    "description": "The Central Government may, by notification, make rules to carry out the provisions of the Act.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IX: MISCELLANEOUS",
+    "section": "Section 37",
+    "section_name": "Power of Board to make regulations",
+    "description": "The Board may, with the prior approval of the Central Government, make regulations to carry out the provisions of the Act.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IX: MISCELLANEOUS",
+    "section": "Section 38",
+    "section_name": "Act to have overriding effect",
+    "description": "The provisions of this Act shall have effect notwithstanding anything inconsistent contained in any other law for the time being in force.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IX: MISCELLANEOUS",
+    "section": "Section 39",
+    "section_name": "Power to remove difficulties",
+    "description": "If any difficulty arises in giving effect to the provisions of the Act, the Central Government may, by order, make provisions for removing the difficulty.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IX: MISCELLANEOUS",
+    "section": "Section 40",
+    "section_name": "Protection of action taken in good faith",
+    "description": "No suit, prosecution, or other legal proceeding shall lie against the Central Government, State Government, the Board, or any of its members or officers for anything done in good faith under the Act.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IX: MISCELLANEOUS",
+    "section": "Section 41",
+    "section_name": "Members and officers to be public servants",
+    "description": "The Chairperson, Members, officers, and employees of the Board shall be deemed to be public servants when acting or purporting to act under the provisions of this Act.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IX: MISCELLANEOUS",
+    "section": "Section 42",
+    "section_name": "Bar on jurisdiction of civil courts",
+    "description": "No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which the Board is empowered to determine under the Act.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Digital Personal Data Protection Act, 2023 - CHAPTER IX: MISCELLANEOUS",
+    "section": "Section 44",
+    "section_name": "Repeal and saving",
+    "description": "Repeals the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011, but saves any action taken under the repealed rules.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER I: PRELIMINARY",
+    "section": "Section 2",
+    "section_name": "Definitions",
+    "description": "Defines key terms for digital law, including 'audio-video electronic' (covering video conferencing, electronic evidence recording) and 'electronic communication' (covering any transmission of information via electronic devices).",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER VII: PROCESSES TO COMPEL PRODUCTION OF THINGS",
+    "section": "Section 94",
+    "section_name": "Summons to produce document or other thing",
+    "description": "A court can issue a summons to a person to produce a document or other thing, which is a primary method for compelling the production of digital evidence like emails, logs, or files.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER VII: PROCESSES TO COMPEL PRODUCTION OF THINGS",
+    "section": "Section 96",
+    "section_name": "When search-warrant may be issued",
+    "description": "A court may issue a search-warrant if it has reason to believe that evidence of a crime is in a specific place, which is the legal basis for searching a server, computer, or mobile phone.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER VII: PROCESSES TO COMPEL PRODUCTION OF THINGS",
+    "section": "Section 105",
+    "section_name": "Recording of search and seizure through audio video electronic means",
+    "description": "Mandates that the entire process of search and seizure, particularly of digital evidence, must be recorded through audio-video electronic means to ensure transparency and legal validity.",
+    "punishment": "Non-compliance may affect the admissibility and validity of the evidence in court."
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER VII: PROCESSES TO COMPEL PRODUCTION OF THINGS",
+    "section": "Section 106",
+    "section_name": "Power of police officer to seize certain property",
+    "description": "Empowers a police officer to seize property suspected to be stolen or involved in an offence, which includes digital devices and data.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER XIII: INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE",
+    "section": "Section 173",
+    "section_name": "Information in cognizable cases",
+    "description": "Establishes the procedure for filing a First Information Report (FIR), the foundational step for reporting any cognizable offence, including cyber crimes like hacking, online fraud, or data theft.",
+    "punishment": "Providing false information is punishable under Section 182 of the Bharatiya Nyaya Sanhita, 2023."
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER XIII: INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE",
+    "section": "Section 180",
+    "section_name": "Examination of witnesses by police",
+    "description": "Allows a police officer to examine witnesses during an investigation, which can include digital forensics experts who have analyzed electronic evidence.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER XIII: INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE",
+    "section": "Section 181",
+    "section_name": "Statements to police and use thereof",
+    "description": "Specifies that statements made to a police officer (not being a Magistrate) cannot be signed, and such statements are not to be used as evidence in court. This governs the admissibility of initial witness statements in cyber crime cases.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER XIII: INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE",
+    "section": "Section 183",
+    "section_name": "Recording of confessions and statements",
+    "description": "Mandates that confessions and statements made to a police officer must be recorded in writing and signed, providing a procedure for documenting digital confessions (e.g., in an online fraud case).",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER XXV: EVIDENCE IN INQUIRIES AND TRIALS",
+    "section": "Section 308",
+    "section_name": "Evidence to be taken in presence of accused",
+    "description": "Specifies that evidence shall be taken in the presence of the accused, or their lawyer, which is a fundamental right applicable when presenting digital evidence in court.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER XXV: EVIDENCE IN INQUIRIES AND TRIALS",
+    "section": "Section 319",
+    "section_name": "When attendance of witness may be dispensed with and commission issued",
+    "description": "Allows a court to issue a commission to examine a witness who cannot attend in person. This is crucial for examining foreign-based digital forensics experts or witnesses.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Bharatiya Nagarik Suraksha Sanhita, 2023 - CHAPTER XXXIX: MISCELLANEOUS",
+    "section": "Section 530",
+    "section_name": "Trial and proceedings to be held in electronic mode",
+    "description": "Authorizes the entire judicial process, from inquiries to trials, to be conducted through electronic means, a cornerstone for the modernization of the legal system in handling digital evidence and remote proceedings.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Indian Telegraph Act, 1885 - PART I: PRELIMINARY",
+    "section": "Section 2(1AA)",
+    "section_name": "Definition of 'Telegraph'",
+    "description": "Defines 'telegraph' in an extremely broad manner to include any appliance for transmitting or receiving information via electronic means, forming the legal basis for regulating all modern electronic communication.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Indian Telegraph Act, 1885 - PART II: PRIVILEGES AND POWERS OF THE GOVERNMENT",
+    "section": "Section 5(1)",
+    "section_name": "Power for Government to take possession of licensed telegraphs",
+    "description": "Allows the government to take temporary possession of any licensed telegraph (e.g., a private network) on the occurrence of a public emergency or in the interest of public safety.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Indian Telegraph Act, 1885 - PART II: PRIVILEGES AND POWERS OF THE GOVERNMENT",
+    "section": "Section 5(2)",
+    "section_name": "Power to intercept messages",
+    "description": "Grants the government the power to intercept, monitor, or detain any electronic message on grounds of public emergency, sovereignty, security, public order, or to prevent incitement to an offence.",
+    "punishment": "Unauthorized interception by a private person is an offence. Unauthorized disclosure by a government official is punishable under Section 26 of the Act."
+  },
+  {
+    "chapter": "Indian Telegraph Act, 1885 - PART IV: PENALTIES",
+    "section": "Section 20",
+    "section_name": "Establishing unauthorised telegraph",
+    "description": "Criminalizes the establishment, maintenance, or working of a telegraph (including wireless networks) without a license from the government.",
+    "punishment": "Punishable with imprisonment up to three years, or with fine, or with both for wireless telegraphs; with a fine up to one thousand rupees in other cases."
+  },
+  {
+    "chapter": "Indian Telegraph Act, 1885 - PART IV: PENALTIES",
+    "section": "Section 21",
+    "section_name": "Using unauthorised telegraphs",
+    "description": "Criminalizes the act of knowingly using an unauthorised telegraph to transmit or receive messages.",
+    "punishment": "Punishable with a fine which may extend to fifty rupees."
+  },
+  {
+    "chapter": "Indian Telegraph Act, 1885 - PART IV: PENALTIES",
+    "section": "Section 23",
+    "section_name": "Intrusion into signal-room, trespass in telegraph office or obstruction",
+    "description": "Criminalizes unauthorized entry into a signal-room or telegraph office, or obstruction of officers, which can be applied to network operation centers or data centers.",
+    "punishment": "Punishable with a fine which may extend to five hundred rupees."
+  },
+  {
+    "chapter": "Indian Telegraph Act, 1885 - PART IV: PENALTIES",
+    "section": "Section 24",
+    "section_name": "Unlawfully attempting to learn contents of messages",
+    "description": "Specifies that if a person commits an act under Section 23 with the intention of unlawfully learning the contents of a message, they may face additional imprisonment.",
+    "punishment": "Punishable with imprisonment for a term which may extend to one year, in addition to the fine under Section 23."
+  },
+  {
+    "chapter": "Indian Telegraph Act, 1885 - PART IV: PENALTIES",
+    "section": "Section 25",
+    "section_name": "Intentionally damaging or tampering with telegraphs",
+    "description": "Criminalizes acts intended to damage, remove, tamper with, or touch any telegraph infrastructure to obstruct communication or intercept messages. This covers damaging digital communication infrastructure.",
+    "punishment": "Punishable with imprisonment for a term which may extend to three years, or with fine, or with both."
+  },
+  {
+    "chapter": "Indian Telegraph Act, 1885 - PART IV: PENALTIES",
+    "section": "Section 26",
+    "section_name": "Unlawful interception or disclosure of messages by officials",
+    "description": "Makes it an offence for a telegraph officer or authorized official to willfully intercept, detain, or disclose the contents of any message to an unauthorized person.",
+    "punishment": "Punishable with imprisonment for a term which may extend to three years, or with fine, or with both."
+  },
+  {
+    "chapter": "Information Technology (Reasonable Security Practices) Rules, 2011",
+    "section": "Rule 3",
+    "section_name": "Sensitive personal data or information",
+    "description": "Defines 'Sensitive personal data or information' to include passwords, financial information, health condition, sexual orientation, medical records, and biometric information.",
+    "punishment": "Breach attracts compensation under IT Act Section 43A for failing to protect sensitive data."
+  },
+  {
+    "chapter": "Information Technology (Reasonable Security Practices) Rules, 2011",
+    "section": "Rule 4",
+    "section_name": "Body corporate to provide policy for privacy and disclosure",
+    "description": "Mandates that a body corporate must publish a clear and accessible privacy policy detailing the type of data collected, purpose of use, and disclosure practices.",
+    "punishment": "Breach attracts compensation under IT Act Section 43A."
+  },
+  {
+    "chapter": "Information Technology (Reasonable Security Practices) Rules, 2011",
+    "section": "Rule 5",
+    "section_name": "Collection of information",
+    "description": "Mandates obtaining written consent before collecting sensitive personal data and informing the provider of the purpose, recipients, and their rights to review and withdraw consent.",
+    "punishment": "Breach attracts compensation under IT Act Section 43A."
+  },
+  {
+    "chapter": "Information Technology (Reasonable Security Practices) Rules, 2011",
+    "section": "Rule 6",
+    "section_name": "Disclosure of information",
+    "description": "Prohibits disclosure of sensitive personal data to third parties without prior permission, except for legal compliance or upon request from a government agency for investigation or cybersecurity purposes.",
+    "punishment": "Breach attracts compensation under IT Act Section 43A."
+  },
+  {
+    "chapter": "Information Technology (Reasonable Security Practices) Rules, 2011",
+    "section": "Rule 7",
+    "section_name": "Transfer of information",
+    "description": "Allows the transfer of sensitive personal data outside India only if the recipient ensures a similar level of data protection and the transfer is necessary for legal compliance or has user consent.",
+    "punishment": "Breach attracts compensation under IT Act Section 43A."
+  },
+  {
+    "chapter": "Information Technology (Reasonable Security Practices) Rules, 2011",
+    "section": "Rule 8",
+    "section_name": "Reasonable Security Practices and Procedures",
+    "description": "Specifies that compliance with IS/ISO/IEC 27001 standard is considered due diligence. Requires a documented information security programme and regular audits.",
+    "punishment": "Failure to implement 'reasonable security practices' leading to wrongful loss or gain makes the body corporate liable to pay damages under IT Act Section 43A."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 2",
+    "section_name": "Definitions",
+    "description": "Provides critical definitions for the digital ecosystem, including 'digital media', 'social media intermediary', 'significant social media intermediary', 'online curated content', 'online game', 'user', and 'user harm'.",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 3(1)(b)",
+    "section_name": "Due Diligence: Content Regulation",
+    "description": "Mandates that intermediaries must inform users not to host, share, or transmit certain types of unlawful content, including content that is defamatory, obscene, invasive of privacy, threatens the unity and integrity of India, or is patently false or misleading, including content identified as fake by a government fact-check unit.",
+    "punishment": "Loss of 'safe harbour' protection under Section 79 of the IT Act, making the intermediary liable for third-party content."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 3(1)(d)",
+    "section_name": "Due Diligence: Removal of Unlawful Information",
+    "description": "Intermediaries must remove or disable access to unlawful information upon receiving actual knowledge (e.g., a court order or government notification) within 36 hours.",
+    "punishment": "Loss of 'safe harbour' protection under Section 79 of the IT Act, making the intermediary liable for third-party content."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 3(1)(g)",
+    "section_name": "Due Diligence: Preservation of Information",
+    "description": "Intermediaries must preserve information and associated records for 180 days for investigation purposes when they remove any content based on user grievances or voluntary action.",
+    "punishment": "Loss of 'safe harbour' protection under Section 79 of the IT Act."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 3(1)(i)",
+    "section_name": "Due Diligence: Cybersecurity Incident Reporting",
+    "description": "Intermediaries must report cyber security incidents and share related information with the Indian Computer Emergency Response Team (CERT-In).",
+    "punishment": "Loss of 'safe harbour' protection under Section 79 of the IT Act."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 3(1)(j)",
+    "section_name": "Due Diligence: Information to Government Agencies",
+    "description": "Intermediaries must provide information or assistance to government agencies for verification of identity, prevention, detection, investigation, or prosecution of offences within 72 hours of receiving an order.",
+    "punishment": "Loss of 'safe harbour' protection under Section 79 of the IT Act."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 3(2)",
+    "section_name": "Grievance Redressal Mechanism",
+    "description": "Mandates appointment of a Grievance Officer, who must acknowledge complaints within 24 hours and resolve them within 15 days (72 hours for privacy violations).",
+    "punishment": "Non-compliance can lead to loss of intermediary status and other penalties under the IT Act."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 3A",
+    "section_name": "Grievance Appellate Committee",
+    "description": "Establishes a Grievance Appellate Committee to hear appeals from users aggrieved by the decision of an intermediary's Grievance Officer. Its decisions are binding on the intermediary.",
+    "punishment": "Non-compliance with the committee's orders can lead to action under the IT Act."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 4(1)",
+    "section_name": "Additional Due Diligence for Significant Social Media Intermediaries",
+    "description": "Requires significant social media intermediaries to appoint a Chief Compliance Officer, a Nodal Contact Person for 24x7 coordination with law enforcement, and a Resident Grievance Officer.",
+    "punishment": "Non-compliance can lead to loss of intermediary status and other penalties under the IT Act."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 4(2)",
+    "section_name": "Traceability of the First Originator",
+    "description": "Requires significant social media intermediaries to enable the identification of the 'first originator' of information on their platform, as required by a judicial or competent authority order for investigating serious offences.",
+    "punishment": "Non-compliance can lead to loss of intermediary status and other penalties under the IT Act."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 4(3)",
+    "section_name": "Voluntary Verification of Users",
+    "description": "Requires significant social media intermediaries to provide an option for users to voluntarily verify their accounts and display a visible mark of verification (e.g., a blue tick).",
+    "punishment": "Not Applicable"
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 4(4)",
+    "section_name": "Proactive Monitoring and Content Removal",
+    "description": "Requires significant social media intermediaries to deploy technology-based measures, including automated tools, to proactively identify information depicting rape, child sexual abuse, or content identical to previously removed content, and disable access to it.",
+    "punishment": "Non-compliance can lead to loss of intermediary status and other penalties under the IT Act."
+  },
+  {
+    "chapter": "Information Technology (Intermediary Guidelines) Rules, 2021",
+    "section": "Rule 4A",
+    "section_name": "Verification of Online Real Money Games",
+    "description": "Establishes a framework for the regulation of online real-money games through self-regulatory bodies that will verify games as 'permissible' based on criteria like user harm prevention and safeguards against fraud.",
+    "punishment": "Unverified games can be blocked by the government under Section 69A of the IT Act."
+  },
+  {
+    "chapter": "BNS 2023 - Chapter XI: Offences Relating to Organised and Cybercrime",
+    "section": "Section 111",
+    "section_name": "Organised Crime",
+    "description": "Defines organised crime, including continuing unlawful activities such as cyber-enabled economic offences and online criminal enterprises.",
+    "punishment": "Imprisonment for life or not less than 10 years, and fine up to ₹10 lakh."
+  },
+  {
+    "chapter": "BNS 2023 - Chapter XI: Offences Relating to Terrorism and Digital Threats",
+    "section": "Section 112",
+    "section_name": "Terrorist Acts Using Digital or Computer Resources",
+    "description": "Covers terrorist acts committed using digital communication, computer resources, or online platforms to threaten public order or security.",
+    "punishment": "Punishable with death or imprisonment for life and fine."
+  },
+  {
+    "chapter": "BNS 2023 - Chapter XII: Offences Relating to Technology and Communication",
+    "section": "Section 318",
+    "section_name": "Tampering with Computer Source or System",
+    "description": "Criminalises tampering, altering, or destroying computer source code, data, or system files; similar to Section 65 of the IT Act.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹2 lakh, or both."
+  },
+  {
+    "chapter": "BNS 2023 - Chapter XII: Offences Relating to Technology and Communication",
+    "section": "Section 319",
+    "section_name": "Cyber Fraud and Digital Identity Misuse",
+    "description": "Penalises fraudulent or dishonest use of another person's digital identity, credentials, or electronic signature.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹1 lakh, or both."
+  },
+  {
+    "chapter": "BNS 2023 - Chapter XII: Offences Relating to False Information and Misuse of Technology",
+    "section": "Section 353",
+    "section_name": "False or Misleading Digital Information",
+    "description": "Punishes individuals who knowingly spread false or misleading information through digital or electronic means causing public alarm or disorder.",
+    "punishment": "Imprisonment up to 3 years, and fine up to ₹5 lakh."
+  },
+  {
+    "chapter": "BNS 2023 - Chapter XII: Offences Against Privacy and Harassment",
+    "section": "Section 354",
+    "section_name": "Voyeurism and Cyber Harassment",
+    "description": "Penalises capturing, publishing, or transmitting images or videos of a person’s private areas without consent through digital means.",
+    "punishment": "Imprisonment of 1 to 3 years and fine; for repeat offenders, imprisonment up to 7 years and fine."
+  },
+  {
+    "chapter": "BNS 2023 - Chapter XII: Offences Against Privacy and Harassment",
+    "section": "Section 357",
+    "section_name": "Cyberstalking or Digital Intimidation",
+    "description": "Criminalises repeated digital communication, contact, or monitoring intended to threaten, harass, or intimidate another person.",
+    "punishment": "Imprisonment up to 3 years, or fine, or both."
+  },
+  {
+    "chapter": "Jan Vishwas Act 2023 - Chapter II: Amendments to Information Technology Act 2000",
+    "section": "Section 45",
+    "section_name": "Residuary Penalty under IT Act",
+    "description": "Revises penalties for general contraventions under the IT Act — increasing fines from ₹25,000 to ₹1,00,000 for unspecified offences.",
+    "punishment": "Fine up to ₹1,00,000."
+  },
+  {
+    "chapter": "Jan Vishwas Act 2023 - Chapter II: Amendments to Information Technology Act 2000",
+    "section": "Section 67C",
+    "section_name": "Failure of Intermediary to Retain Information",
+    "description": "Requires intermediaries to preserve and retain specified information for a period determined by the Central Government; failure to do so invites penalty.",
+    "punishment": "Imprisonment up to 3 years, or fine, or both."
+  },
+  {
+    "chapter": "Jan Vishwas Act 2023 - Chapter II: Amendments to Information Technology Act 2000",
+    "section": "Section 72A",
+    "section_name": "Disclosure of Personal Information Without Consent",
+    "description": "Penalises service providers or intermediaries who disclose personal information obtained under a lawful contract without consent or in breach of confidentiality.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹5 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter IX: Penalties and Adjudication",
+    "section": "Section 43",
+    "section_name": "Penalty for damage to computer, computer system, etc.",
+    "description": "Unauthorized access, introducing virus, deleting or altering data, or causing denial of service to legitimate users.",
+    "punishment": "Liable to pay compensation to the affected person."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter IX: Penalties and Adjudication",
+    "section": "Section 43A",
+    "section_name": "Compensation for failure to protect data",
+    "description": "Companies handling sensitive personal data must ensure reasonable security practices; failure makes them liable for damages.",
+    "punishment": "Compensation to affected individuals."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 65",
+    "section_name": "Tampering with computer source documents",
+    "description": "Intentionally concealing, destroying, or altering computer source code required to be kept by law.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹2 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 66",
+    "section_name": "Computer-related offences",
+    "description": "Covers hacking, unauthorized system access, or causing wrongful loss through digital means.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹5 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 66B",
+    "section_name": "Receiving stolen computer resources",
+    "description": "Buying, receiving, or using stolen computer resources or communication devices knowingly.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹1 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 66C",
+    "section_name": "Identity theft",
+    "description": "Fraudulently using another person's password, digital signature, or unique identification.",
+    "punishment": "Imprisonment up to 3 years, and fine up to ₹1 lakh."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 66D",
+    "section_name": "Cheating by personation using computer resources",
+    "description": "Online scams, impersonation, phishing, or fake job offers through digital platforms.",
+    "punishment": "Imprisonment up to 3 years, and fine up to ₹1 lakh."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 66E",
+    "section_name": "Violation of privacy",
+    "description": "Capturing, publishing, or transmitting images of a person's private area without consent.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹2 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 66F",
+    "section_name": "Cyber terrorism",
+    "description": "Acts using computers or networks that threaten the unity, integrity, or security of India.",
+    "punishment": "Imprisonment for life."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 67",
+    "section_name": "Publishing obscene material in electronic form",
+    "description": "Publishing or transmitting obscene or sexually explicit material online.",
+    "punishment": "First conviction: 3 years imprisonment and ₹5 lakh fine; subsequent conviction: 5 years imprisonment and ₹10 lakh fine."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 67A",
+    "section_name": "Publishing sexually explicit material",
+    "description": "Publishing or transmitting sexually explicit content in electronic form.",
+    "punishment": "Imprisonment up to 5 years and fine up to ₹10 lakh."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 67B",
+    "section_name": "Child pornography",
+    "description": "Depicting children in sexually explicit acts, or facilitating such acts online.",
+    "punishment": "Imprisonment up to 5 years and fine up to ₹10 lakh for first conviction."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 68",
+    "section_name": "Failure to obey directions of Controller",
+    "description": "Non-compliance with lawful directions issued by the Controller under the Act.",
+    "punishment": "Imprisonment up to 2 years, or fine up to ₹1 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 69",
+    "section_name": "Power to intercept, monitor or decrypt information",
+    "description": "Government may authorize interception or monitoring for public order and national security.",
+    "punishment": "Failure to comply may result in imprisonment up to 7 years."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 69A",
+    "section_name": "Power to block websites and information",
+    "description": "Government can block access to online content for national security or public order.",
+    "punishment": "Non-compliance can result in imprisonment up to 7 years and fine."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 69B",
+    "section_name": "Monitoring and collection of traffic data",
+    "description": "Allows monitoring of internet traffic for cybersecurity or law enforcement purposes.",
+    "punishment": "Non-compliance or misuse may attract penalties under the Act."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 70",
+    "section_name": "Protected systems",
+    "description": "Accessing or attempting to access protected government systems without authorization.",
+    "punishment": "Imprisonment up to 10 years and fine."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 70A",
+    "section_name": "National Critical Information Infrastructure Protection Centre (NCIIPC)",
+    "description": "Establishes authority to protect national critical information infrastructure.",
+    "punishment": "Penalties as prescribed for violation or negligence."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 70B",
+    "section_name": "Indian Computer Emergency Response Team (CERT-In)",
+    "description": "Handles cybersecurity incidents, issues alerts, and ensures compliance.",
+    "punishment": "Failure to report or comply may attract penalties."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 71",
+    "section_name": "Penalty for misrepresentation",
+    "description": "Providing false information to obtain a digital signature certificate.",
+    "punishment": "Imprisonment up to 2 years, or fine up to ₹1 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 72",
+    "section_name": "Breach of confidentiality and privacy",
+    "description": "Unauthorized access or sharing of personal information obtained lawfully.",
+    "punishment": "Imprisonment up to 2 years, or fine up to ₹1 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 73",
+    "section_name": "Publishing false digital signature certificates",
+    "description": "Issuing or publishing false or fraudulent electronic signature certificates.",
+    "punishment": "Imprisonment up to 2 years, or fine up to ₹1 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XI: Offences",
+    "section": "Section 74",
+    "section_name": "Publication for fraudulent purpose",
+    "description": "Using electronic certificates or signatures for fraudulent activities.",
+    "punishment": "Imprisonment up to 2 years, or fine up to ₹1 lakh, or both."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XII: Miscellaneous",
+    "section": "Section 75",
+    "section_name": "Extra-territorial jurisdiction",
+    "description": "Act applies to offences committed outside India involving Indian computer systems or citizens.",
+    "punishment": "As per provisions of the Act."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XII: Miscellaneous",
+    "section": "Section 76",
+    "section_name": "Confiscation",
+    "description": "Seizure of any computer, device, or data involved in an offence.",
+    "punishment": "Equipment and data may be confiscated by authorities."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XII: Miscellaneous",
+    "section": "Section 77",
+    "section_name": "Compensation and penalties",
+    "description": "Defines general compensation and penalties under the Act.",
+    "punishment": "As prescribed depending on the offence."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XII: Miscellaneous",
+    "section": "Section 77A",
+    "section_name": "Compounding of offences",
+    "description": "Allows certain offences to be settled by mutual agreement before trial.",
+    "punishment": "Subject to court approval."
+  },
+  {
+    "chapter": "Information Technology Act, 2000 - Chapter XII: Miscellaneous",
+    "section": "Section 77B",
+    "section_name": "Bailable and cognizable offences",
+    "description": "Defines which offences under the IT Act are bailable or cognizable.",
+    "punishment": "Procedural provision; defines classification."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XVI: Offences Affecting the Human Body",
+    "section": "Section 354A/354C/354D",
+    "section_name": "Sexual harassment, voyeurism, and stalking",
+    "description": "Online stalking, sending obscene messages, or capturing private images without consent.",
+    "punishment": "Imprisonment up to 3 years and fine."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XVII: Offences Against Property",
+    "section": "Section 379",
+    "section_name": "Theft",
+    "description": "Theft of data, devices, or digital property.",
+    "punishment": "Imprisonment up to 3 years, or fine, or both."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XVII: Offences Against Property",
+    "section": "Section 406/409",
+    "section_name": "Criminal breach of trust",
+    "description": "Unauthorized misuse of data or funds entrusted to a person.",
+    "punishment": "Imprisonment up to 10 years and fine."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XVII: Offences Against Property",
+    "section": "Section 417/420",
+    "section_name": "Cheating and dishonesty",
+    "description": "Online scams, fake websites, or impersonation for monetary gain.",
+    "punishment": "Imprisonment up to 7 years and fine."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XVIII: Offences Relating to Documents and Property Marks",
+    "section": "Section 468/469/471",
+    "section_name": "Forgery and use of forged documents",
+    "description": "Creating or using fake online identities or forged electronic records.",
+    "punishment": "Imprisonment up to 7 years and fine."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XXI: Defamation",
+    "section": "Section 499/500",
+    "section_name": "Defamation",
+    "description": "Spreading false or defamatory content online to harm reputation.",
+    "punishment": "Imprisonment up to 2 years, or fine, or both."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XXII: Criminal Intimidation, Insult, and Annoyance",
+    "section": "Section 503/506",
+    "section_name": "Criminal intimidation and threats",
+    "description": "Threats, blackmail, or harassment through emails or social media.",
+    "punishment": "Imprisonment up to 2 years, or fine, or both."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XXII: Criminal Intimidation, Insult, and Annoyance",
+    "section": "Section 509",
+    "section_name": "Insulting modesty of a woman",
+    "description": "Sending obscene or indecent messages to women online.",
+    "punishment": "Imprisonment up to 3 years and fine."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XXIII: Attempts, Abetments, and Conspiracies",
+    "section": "Section 120B",
+    "section_name": "Criminal conspiracy",
+    "description": "Planning or coordinating cyberattacks or group online frauds.",
+    "punishment": "Same as the main offence planned."
+  },
+  {
+    "chapter": "Indian Penal Code - Chapter XIV: Offences Affecting the Public Health, Safety, Convenience, Decency, and Morals",
+    "section": "Section 292/294",
+    "section_name": "Obscene material and acts",
+    "description": "Publishing or transmitting obscene content on digital platforms.",
+    "punishment": "Imprisonment up to 2 years and fine."
+  },
+  {
+    "chapter": "Indian Evidence Act, 1872 - Chapter V: Documentary Evidence",
+    "section": "Section 65A",
+    "section_name": "Special provisions for electronic records",
+    "description": "Specifies conditions for using electronic documents as evidence.",
+    "punishment": "Procedural provision; no direct punishment."
+  },
+  {
+    "chapter": "Indian Evidence Act, 1872 - Chapter V: Documentary Evidence",
+    "section": "Section 65B",
+    "section_name": "Admissibility of electronic evidence",
+    "description": "Digital evidence like emails or chats must be certified to be admissible in court.",
+    "punishment": "Procedural provision; no direct punishment."
+  }
+]

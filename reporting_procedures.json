@@ -1,0 +1,58 @@
+[
+  {
+    "crime_type": "Financial Fraud / UPI Scam",
+    "priority": "URGENT (Call Immediately)",
+    "procedure": "If you lose money through an online payment app, UPI transfer, or bank fraud, call 1930 immediately to request a transaction freeze before it is withdrawn.",
+    "contact_method": "Phone",
+    "contact_detail": "1930",
+    "source": "National Cyber Crime Reporting Portal (https://cybercrime.gov.in)"
+  },
+  {
+    "crime_type": "Social Media Harassment or Cyber Bullying",
+    "priority": "HIGH (Report Online)",
+    "procedure": "If someone is threatening, blackmailing, or spreading false content through social media, take screenshots and URLs, and file a report on the National Cyber Crime Reporting Portal.",
+    "contact_method": "Website",
+    "contact_detail": "https://cybercrime.gov.in",
+    "source": "National Cyber Crime Reporting Portal"
+  },
+  {
+    "crime_type": "Online Sexual Exploitation or Child Abuse (CSAM)",
+    "priority": "URGENT (Report Immediately)",
+    "procedure": "Report any explicit or abusive online content involving minors immediately through the 'Women/Child Related Crimes' section of the National Cyber Portal.",
+    "contact_method": "Website",
+    "contact_detail": "https://cybercrime.gov.in",
+    "source": "National Cyber Crime Reporting Portal"
+  },
+  {
+    "crime_type": "Identity Theft / Fake Social Media Profile",
+    "priority": "HIGH (Report Online)",
+    "procedure": "If your photo, account, or identity is misused on any digital platform, report the account to the platform and then lodge a complaint on the Cyber Crime Portal.",
+    "contact_method": "Website",
+    "contact_detail": "https://cybercrime.gov.in",
+    "source": "National Cyber Crime Reporting Portal"
+  },
+  {
+    "crime_type": "Online Shopping / Delivery Fraud",
+    "priority": "MEDIUM (Report if Not Resolved)",
+    "procedure": "If you paid online for goods or services and were cheated, contact the platform’s support first. If unresolved, register a cyber fraud complaint online.",
+    "contact_method": "Website",
+    "contact_detail": "https://cybercrime.gov.in",
+    "source": "National Cyber Crime Reporting Portal"
+  },
+  {
+    "crime_type": "Hacking / Ransomware Attack",
+    "priority": "URGENT (Preserve Evidence & Report)",
+    "procedure": "Disconnect your device from the internet immediately. Do not delete any files or messages. Report to your nearest Cyber Crime Police Station for assistance.",
+    "contact_method": "Local Police Station",
+    "contact_detail": "See cybercells.json",
+    "source": "Kerala Police Cyber Operations"
+  },
+  {
+    "crime_type": "Loan App / Data Misuse Complaint",
+    "priority": "HIGH (Report Online)",
+    "procedure": "If you are being harassed or your data is misused by an unapproved loan app, report on the portal with screenshots and app details.",
+    "contact_method": "Website",
+    "contact_detail": "https://cybercrime.gov.in",
+    "source": "National Cyber Crime Reporting Portal"
+  }
+]

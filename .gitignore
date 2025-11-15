@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# IDE
+.idea/
+
+# ML Models & Indexes
+
+

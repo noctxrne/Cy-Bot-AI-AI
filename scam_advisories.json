@@ -1,0 +1,51 @@
+[
+  {
+    "scam_name": "Online Job Fraud / Money Mule Trap",
+    "keywords": "job, work from home, telegram, mule, commission, trading",
+    "modus_operandi": "Fraudsters offer online jobs paying commissions. Later, they ask victims to use their bank accounts for fund transfers linked to cyber scams.",
+    "recent_intel": "Kerala Police identified several Telegram job groups recruiting students for illegal fund transfers.",
+    "police_advice": "Do not share your bank details or act as a 'money mule'. Verify job offers on official company websites."
+  },
+  {
+    "scam_name": "UPI / OTP Banking Fraud",
+    "keywords": "OTP, bank, KYC, UPI, blocked, reward points",
+    "modus_operandi": "Scammers pose as bank staff, ask for OTP or UPI PIN, or send fake KYC links to steal money.",
+    "recent_intel": "Cases reported in Ernakulam and Thiruvananthapuram where fraudsters cloned SIM cards using OTP.",
+    "police_advice": "Banks never ask for OTP or PIN. Do not share codes or click unknown links."
+  },
+  {
+    "scam_name": "Fake Investment / Crypto Scam",
+    "keywords": "crypto, trading, forex, bitcoin, profit, app",
+    "modus_operandi": "Fake trading apps and Telegram groups promise high returns. Victims are tricked into transferring funds to foreign wallets.",
+    "recent_intel": "Kerala Cyber Cell warned against fake crypto investment apps circulating on social media.",
+    "police_advice": "Use only SEBI/RBI-registered platforms. Avoid investment offers through Telegram or Instagram."
+  },
+  {
+    "scam_name": "E-commerce / Fake Website Fraud",
+    "keywords": "shopping, delivery, fake, online store, payment, Amazon, Flipkart",
+    "modus_operandi": "Scammers create duplicate shopping sites. Payments are taken, but goods are never delivered or are fake.",
+    "recent_intel": "Fake shopping domains reported in Kochi and Kozhikode linked to social media ads.",
+    "police_advice": "Shop only on verified websites with HTTPS and real customer reviews."
+  },
+  {
+    "scam_name": "Instant Loan App Blackmail",
+    "keywords": "loan, credit, app, personal data, harassment, gallery",
+    "modus_operandi": "Fake loan apps access contacts and photos, then blackmail victims to repay inflated amounts.",
+    "recent_intel": "Thrissur and Palakkad victims faced threats from illegal Chinese-linked loan apps.",
+    "police_advice": "Install only RBI-approved apps. Revoke app permissions that access personal data."
+  },
+  {
+    "scam_name": "Electricity Bill / Service SMS Scam",
+    "keywords": "electricity, bill, payment, SMS, KSEB, disconnection",
+    "modus_operandi": "Fake messages claim your power will be disconnected and include malicious payment links.",
+    "recent_intel": "Kerala Police warned users about fraudulent ‘KSEB payment’ links stealing card details.",
+    "police_advice": "Ignore suspicious payment links. Use the official KSEB website for bill payments."
+  },
+  {
+    "scam_name": "Online Romance / Dating Scam",
+    "keywords": "dating, romance, relationship, gift, customs, money transfer",
+    "modus_operandi": "Scammers form online relationships, then claim emergencies or customs fees to extract money.",
+    "recent_intel": "Cases in Kerala where victims lost large sums to romance scammers on dating apps.",
+    "police_advice": "Do not share personal photos or money with online acquaintances."
+  }
+]

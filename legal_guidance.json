@@ -1,0 +1,67 @@
+[
+  {
+    "crime_type": "Financial Fraud / UPI Scam",
+    "applicable_laws": [
+      "Section 66D, IT Act 2000 - Cheating by personation using computer resources",
+      "Section 420, IPC - Cheating and dishonestly inducing delivery of property",
+      "Section 43, IT Act - Unauthorized access and data theft"
+    ],
+    "punishment": "Imprisonment up to 3 years and/or fine up to ₹1 lakh",
+    "jurisdiction": "Local Cyber Crime Police Station or Judicial Magistrate Court"
+  },
+  {
+    "crime_type": "Social Media Harassment / Defamation",
+    "applicable_laws": [
+      "Section 67, IT Act 2000 - Publishing obscene material electronically",
+      "Section 499 & 500, IPC - Defamation",
+      "Section 507, IPC - Criminal intimidation by anonymous communication"
+    ],
+    "punishment": "Up to 3 years imprisonment and/or fine",
+    "jurisdiction": "Cyber Crime Police Station or Women’s Police Station"
+  },
+  {
+    "crime_type": "Identity Theft / Fake Profiles",
+    "applicable_laws": [
+      "Section 66C, IT Act 2000 - Identity theft",
+      "Section 468, IPC - Forgery for cheating",
+      "Section 471, IPC - Using forged document as genuine"
+    ],
+    "punishment": "Up to 3 years imprisonment and fine up to ₹1 lakh"
+  },
+  {
+    "crime_type": "Online Extortion / Blackmail",
+    "applicable_laws": [
+      "Section 384, IPC - Extortion",
+      "Section 503, IPC - Criminal intimidation",
+      "Section 67A, IT Act - Publishing sexually explicit content"
+    ],
+    "punishment": "Imprisonment up to 7 years and fine",
+    "jurisdiction": "Local Cyber Police and Magistrate Court"
+  },
+  {
+    "crime_type": "Cyber Stalking",
+    "applicable_laws": [
+      "Section 354D, IPC - Stalking",
+      "Section 66E, IT Act - Violation of privacy"
+    ],
+    "punishment": "Imprisonment up to 3 years for first conviction"
+  },
+  {
+    "crime_type": "Child Exploitation / CSAM",
+    "applicable_laws": [
+      "POCSO Act, 2012",
+      "Section 67B, IT Act - Child sexually explicit content",
+      "Section 292, IPC - Obscene publications"
+    ],
+    "punishment": "Up to 7 years imprisonment and fine"
+  },
+  {
+    "crime_type": "Fake Loan / App Scams",
+    "applicable_laws": [
+      "Section 66D, IT Act - Cheating using communication devices",
+      "Section 420, IPC - Cheating",
+      "RBI Guidelines for Digital Lending, 2022"
+    ],
+    "punishment": "Up to 3 years imprisonment and fine"
+  }
+]
