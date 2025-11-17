@@ -1,31 +1,20 @@
 import json
-import ollama
+# --- REMOVED THE OLLAMA IMPORT ---
 from langchain_community.vectorstores import FAISS
-from langchain_core.embeddings import Embeddings
+# --- REMOVED THE CUSTOM EMBEDDINGS IMPORT ---
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from typing import List
+from langchain_huggingface import HuggingFaceEmbeddings  # <-- We will use this
 
-# --- Create a Custom Embeddings Class for Ollama ---
-class OllamaLocalEmbeddings(Embeddings):
-    """
-    Custom LangChain embeddings class that uses the official 'ollama' library.
-    """
-    def __init__(self, model: str):
-        self.model = model
 
-    def embed_documents(self, texts: List[str]) -> List[List[float]]:
-        # The response object has an 'embeddings' attribute, which is the list of vectors.
-        return ollama.embed(model=self.model, input=texts).embeddings
-
-    def embed_query(self, text: str) -> List[float]:
-        # For a single text, the response object also has an 'embeddings' attribute.
-        # We just need the first (and only) vector from the list.
-        return ollama.embed(model=self.model, input=text).embeddings[0]
+# --- REMOVED THE CUSTOM OllamaLocalEmbeddings CLASS ---
+# (We don't need it because we are using the HuggingFaceEmbeddings class directly)
+# ---
 
 def build_vector_store():
     """
-    Builds a FAISS vector store using the direct Ollama library.
+    Builds a FAISS vector store using Hugging Face embeddings.
     """
     print("🚀 Starting vector store build process...")
 
@@ -38,19 +27,21 @@ def build_vector_store():
         print(f"❌ ERROR: Failed to load JSON file. {e}")
         return
 
-    # 2. Initialize our custom Ollama Embedding Model
+    # 2. Initialize our Hugging Face Embedding Model
     try:
-        print("📥 Initializing direct Ollama embedding model (nomic-embed-text)...")
-        embeddings = OllamaLocalEmbeddings(model="nomic-embed-text")
-        print("✅ Direct Ollama model initialized.")
+        # --- THIS IS THE KEY CHANGE ---
+        # We are matching the model from bot_backend.py
+        print("📥 Initializing Hugging Face embedding model (sentence-transformers/all-MiniLM-L6-v2)...")
+        embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        print("✅ Hugging Face model initialized.")
     except Exception as e:
-        print(f"❌ ERROR: Failed to initialize Ollama model. Is Ollama running? Error: {e}")
+        print(f"❌ ERROR: Failed to initialize Hugging Face model. Error: {e}")
         return
 
     # 3. Process data into documents (same logic as before)
     documents = []
     print("📄 Processing documents from JSON data...")
-    
+
     for section in data:
         content = section.get("description", "")
         if content:
@@ -61,7 +52,7 @@ def build_vector_store():
                 "section_name": section.get("section_name", "N/A")
             }
             documents.append(Document(page_content=content, metadata=metadata))
-    
+
     if not documents:
         print("❌ ERROR: No documents were created. Check the JSON structure and the 'description' field.")
         return
@@ -91,6 +82,7 @@ def build_vector_store():
     except Exception as e:
         print(f"❌ ERROR: Failed to save vector store. Error: {e}")
         return
+
 
 if __name__ == "__main__":
     build_vector_store()

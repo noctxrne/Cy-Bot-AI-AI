@@ -9,28 +9,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from sentence_transformers import CrossEncoder
 from typing import List
-
-# --- OLLAMA OFFICIAL CLIENT ---
-from ollama import Client
-ollama_client = Client(host="http://localhost:11434")
-
-from langchain_core.embeddings import Embeddings
-
-
-# =====================================================
-#  OLLAMA EMBEDDINGS (FIXED VERSION)
-# =====================================================
-class OllamaLocalEmbeddings(Embeddings):
-    def __init__(self, model: str):
-        self.model = model
-
-    def embed_documents(self, texts: List[str]) -> List[List[float]]:
-        result = ollama_client.embed(model=self.model, input=texts)
-        return result["embeddings"]
-
-    def embed_query(self, text: str) -> List[float]:
-        result = ollama_client.embed(model=self.model, input=text)
-        return result["embeddings"][0]
+from langchain_huggingface import HuggingFaceEmbeddings
 
 
 # Load environment variables
@@ -40,7 +19,8 @@ load_dotenv()
 intent_classifier = joblib.load("intent_classifier.pkl")
 
 # Initialize embeddings
-embeddings = OllamaLocalEmbeddings(model="nomic-embed-text")
+# Initialize embeddings
+embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 # Load FAISS vectorstore
 vectorstore = FAISS.load_local(
@@ -148,7 +128,11 @@ def remove_pdf_from_memory(pdf_id: str):
 # =====================================================
 #   MAIN FUNCTION: BOT RESPONSE
 # =====================================================
+# =====================================================
+#   MAIN FUNCTION: BOT RESPONSE
+# =====================================================
 def get_bot_response(user_question: str, has_pdf: bool = False, pdf_id: str = None) -> str:
+    # --- ADDING THE TRY/EXCEPT BLOCK BACK ---
     try:
         intent = predict_intent(user_question)
 
@@ -195,9 +179,12 @@ Answer:
         response = llm.invoke(prompt)
         return response.content.strip()
 
+    # --- ADDING THE TRY/EXCEPT BLOCK BACK ---
     except Exception as e:
         return f"[Backend Error] {str(e)}"
-
+# =====================================================
+#   MAIN FUNCTION: BOT RESPONSE
+# =====================================================
 
 # =====================================================
 #   LOCAL TESTING

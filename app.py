@@ -31,6 +31,7 @@ def get_response():
     has_pdf = request.json.get("has_pdf", False)
     
     bot_msg = get_bot_response(user_msg, has_pdf)
+    print(f"Bot response/error: {bot_msg}")
 
     entry = {"user": user_msg, "bot": bot_msg}
     history = session.get("history", [])
